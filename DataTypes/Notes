@@ -1,0 +1,13 @@
+In a Class :
+
+1. We want to store the Student Roll Number - int
+2. We want to store the Student Name - str
+3. We want to store the Student Marks - float
+
+
+4. Vaishali all the marks - 89,34,65,78
+
+if we store only one name then it is str
+
+
+
