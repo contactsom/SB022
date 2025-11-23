@@ -1,0 +1,8 @@
+myAge=30
+
+if(True):
+    print("Statement -1")
+else:
+    print("Statement -4")
+    print("Statement -5")
+print("Thank You !!!")
