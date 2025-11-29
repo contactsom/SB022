@@ -1,0 +1,14 @@
+mySet={"Pravesh","Rakshitha","Roshan","Dinkar"}
+mySet[0]= Wrong
+
+i=0
+while(i<len(mySet)):
+    print(mySet[i])
+    i=i+1
+While loop in not applicable on set-Agree?
+
+
+mySet={"Pravesh","Rakshitha","Roshan","Dinkar"}
+mySet[1:3]=
+
+Set is not supporting the Slice operation also , Agree ?
